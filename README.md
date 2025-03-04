@@ -7,3 +7,6 @@ This public dataset is hosted in Google BigQuery and is included in BigQuery's 1
 ## Data Source
 
 To see the datasource, simply visit the [Dataset in BigQuery](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
+
+## Charts
+![image](https://github.com/LogiNika/LkEcommerce/blob/dae9ff08840d6dfe00e72981997733a16cf8ccca/report/Total%20Revenue%20by%20Country.png)
