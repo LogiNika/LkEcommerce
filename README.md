@@ -6,7 +6,7 @@ This public dataset is hosted in Google BigQuery and is included in BigQuery's 1
 
 ## Data Source
 
-To see the datasource, simply visit the [Dataset in BigQuery][https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&project=%3F&ws=!1m4!1m3!3m2!1sbigquery-public-data!2sthelook_ecommerce&inv=1&invt=AbrJug]
+To see the datasource, simply visit the [Dataset in BigQuery](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&project=%3F&ws=!1m4!1m3!3m2!1sbigquery-public-data!2sthelook_ecommerce&inv=1&invt=AbrJug)
 
 ## Charts
 ![image](https://github.com/LogiNika/LkEcommerce/blob/dae9ff08840d6dfe00e72981997733a16cf8ccca/report/Total%20Revenue%20by%20Country.png)
