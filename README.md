@@ -10,7 +10,7 @@ To see the datasource, simply visit the [Dataset in BigQuery](https://console.cl
 
 ## Project Outcomes:
 
-📑 [Project Report](https://github.com/LogiNika/LkEcommerce/blob/08385b3caba5a90b70ce35506b24494233edcd75/report/report.html) --> Reflects the whole data analysis process and corresponding insights with charts and tables.
+📑 [Project Report](https://loginika.github.io/LkEcommerce/report/report.html) --> Reflects the whole data analysis process and corresponding insights with charts and tables.
 
 💻 [Python Project](https://github.com/LogiNika/LkEcommerce/blob/1e5a8f3b5528774b5992d3355f0cd4202f5b19f8/LookerEcommerce.py) --> You are more than welcomed to explore code and visuals. 
 
