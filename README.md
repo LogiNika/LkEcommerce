@@ -22,4 +22,4 @@ To see the datasource, simply visit the [Dataset in BigQuery](https://console.cl
 
 ![image](https://github.com/LogiNika/LkEcommerce/blob/e23b2ecf21e67f8d6ceb390c9a4d45872d4d22db/report/Yearly%20Trend%20with%20One%20Line%20for%20Each%20Month.png)
 
-![image](![image](https://github.com/LogiNika/LkEcommerce/blob/e23b2ecf21e67f8d6ceb390c9a4d45872d4d22db/report/Yearly%20Trend%20with%20One%20Line%20for%20Each%20Month.png))
+![image](https://github.com/LogiNika/LkEcommerce/blob/503d931a031d64fd894af0d9f411b08e7271eb5e/report/Average%20Sessions%20Per%20Month.png)
