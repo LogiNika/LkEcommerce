@@ -21,3 +21,5 @@ To see the datasource, simply visit the [Dataset in BigQuery](https://console.cl
 ![image](https://github.com/LogiNika/LkEcommerce/blob/deba93b1cc81617cb7d95cff69da052055942b8d/report/Profit%20Trends%20Over%20%20Tite(Department).png)
 
 ![image](https://github.com/LogiNika/LkEcommerce/blob/e23b2ecf21e67f8d6ceb390c9a4d45872d4d22db/report/Yearly%20Trend%20with%20One%20Line%20for%20Each%20Month.png)
+
+![image](![image](https://github.com/LogiNika/LkEcommerce/blob/e23b2ecf21e67f8d6ceb390c9a4d45872d4d22db/report/Yearly%20Trend%20with%20One%20Line%20for%20Each%20Month.png))
