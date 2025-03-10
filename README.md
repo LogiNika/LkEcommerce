@@ -17,3 +17,5 @@ To see the datasource, simply visit the [Dataset in BigQuery](https://console.cl
 ## Project gallery:
 
 ![image](https://github.com/LogiNika/LkEcommerce/blob/dae9ff08840d6dfe00e72981997733a16cf8ccca/report/Total%20Revenue%20by%20Country.png)
+
+![image](https://github.com/LogiNika/LkEcommerce/blob/deba93b1cc81617cb7d95cff69da052055942b8d/report/Profit%20Trends%20Over%20%20Tite(Department).png)
